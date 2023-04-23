@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689381915711",
+    "project_id": "fir-messaging-db4bb",
+    "storage_bucket": "fir-messaging-db4bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689381915711:android:29c30f44e31bfee569cc8a",
+        "android_client_info": {
+          "package_name": "com.example.notificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689381915711-4mdgu9f29nd4gchj9uesekbrrcrlr9vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Vj2I1MidP9cZjeWt7o7zel0i7nLYwiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689381915711-4mdgu9f29nd4gchj9uesekbrrcrlr9vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
